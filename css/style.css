@@ -48,6 +48,7 @@ table {
 .box{
 	max-width: 600px;
     margin: auto;
+	margin-bottom: 150px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
