@@ -43,18 +43,19 @@ table {
 	border-spacing: 0;
 }
 
-/* Чомусь не працює  margin-left: auto; margin-right: auto; в стилях для div */
-
 .box{
 	max-width: 600px;
     margin: auto;
-	margin-bottom: 150px;
+	margin-bottom: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .title{
     text-align: center;
     text-transform: uppercase;
+}
+.img{
+	text-align: center;
 }
 ul{
     line-height: 150%;
