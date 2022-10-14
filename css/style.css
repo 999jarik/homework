@@ -43,32 +43,30 @@ table {
 	border-spacing: 0;
 }
 
-.box{
+/*Content*/
+
+.box {
 	max-width: 600px;
     margin: auto;
 	margin-bottom: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.title{
+.title {
     text-align: center;
     text-transform: uppercase;
 }
-.img{
+.img {
 	text-align: center;
 }
-ul{
+ul {
     line-height: 150%;
 }
-a{
+a {
     font-style: italic;
 }
-.number{
-    margin-left: 25px;
-}
-.link{
-    margin-left: 25px;
-}
-span{
+.number
+.link
+span {
     margin-left: 25px;
 }
